@@ -19,10 +19,5 @@ public class TC_1GetMethod {
         System.out.println(res.statusCode());
         System.out.println("Response data");
         System.out.println(res.asString());
-        
-                 
-        		
-        		
+        }
 	}
-
-}
