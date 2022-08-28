@@ -4,7 +4,6 @@ import static io.restassured.RestAssured.*;
 
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
-
 //import io.restassured.http.ContentType;
 
 public class TC_1GetMethod {
